@@ -1,7 +1,6 @@
 # 🐧 Running_Penguin
 
 **Platform**: PC
-
 Welcome to **Running_Penguin**, a simple endless runner game where you control a penguin running through the icy Arctic, dodging obstacles and aiming for the highest score.  
 
 ---
