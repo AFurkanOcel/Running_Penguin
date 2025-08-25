@@ -62,6 +62,9 @@ Run endlessly across the polar landscape, jumping over or sliding under obstacle
 **Sliding under obstacle**  
 <img width="1920" height="1080" alt="penguin2" src="https://github.com/user-attachments/assets/3ed85104-9b2b-44e5-ad85-f12b54a5760d" />
 
+| ![penguin1](https://github.com/user-attachments/assets/60230ab1-c4b7-4418-bcfe-6544b833dfd6) |
+|:--:|
+
 
 ---
 
