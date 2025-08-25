@@ -55,16 +55,11 @@ Run endlessly across the polar landscape, jumping over or sliding under obstacle
 
 ## 🖼️ Images
 
-**Running Penguin in action**  
-<img width="1920" height="1080" alt="penguin1" src="https://github.com/user-attachments/assets/60230ab1-c4b7-4418-bcfe-6544b833dfd6" />
+**Running Penguin**  
+<img width="1940" height="1100" alt="penguin1" src="https://github.com/user-attachments/assets/580900b5-3020-4f14-8ce2-aee7bbc2766f" />
 
-
-**Sliding under obstacle**  
-<img width="1920" height="1080" alt="penguin2" src="https://github.com/user-attachments/assets/3ed85104-9b2b-44e5-ad85-f12b54a5760d" />
-
-| ![penguin1](https://github.com/user-attachments/assets/60230ab1-c4b7-4418-bcfe-6544b833dfd6) |
-|:--:|
-
+**Sliding Penguin**  
+<img width="1940" height="1100" alt="penguin2" src="https://github.com/user-attachments/assets/fd264ade-9455-4899-b0e3-9f96bc4b9c82" />
 
 ---
 
