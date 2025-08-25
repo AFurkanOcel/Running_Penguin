@@ -8,8 +8,6 @@ Welcome to **Running_Penguin**, a simple endless runner game where you control a
 
 Run endlessly across the polar landscape, jumping over or sliding under obstacles to survive as long as possible. Colliding with an obstacle ends the game, but you can quickly restart using the retry button.  
 
-<img width="1920" height="1080" alt="Maze_Of_The_Ghost_3" src="https://github.com/user-attachments/assets/1ee83c20-aca3-48d0-9a4e-6fcd79c3c4f4" />
-
 ---
 
 ## 🧩 Controls
@@ -52,6 +50,18 @@ Run endlessly across the polar landscape, jumping over or sliding under obstacle
 ## 📜 Credits
 
 ### **Game Development**: A. Furkan Öcel  
+
+---
+
+## 🖼️ Images
+
+**Running Penguin in action**  
+<img width="1920" height="1080" alt="penguin1" src="https://github.com/user-attachments/assets/60230ab1-c4b7-4418-bcfe-6544b833dfd6" />
+
+
+**Sliding under obstacle**  
+<img width="1920" height="1080" alt="penguin2" src="https://github.com/user-attachments/assets/3ed85104-9b2b-44e5-ad85-f12b54a5760d" />
+
 
 ---
 
