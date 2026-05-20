@@ -33,9 +33,9 @@ The goal is straightforward:
 
 The game uses a compact arcade-style loop: start from the menu, play instantly, lose on collision, then retry for a better score.
 
-<img width="1940" height="1100" alt="running penguin gameplay" src="https://github.com/user-attachments/assets/580900b5-3020-4f14-8ce2-aee7bbc2766f" />
+<img width="1940" height="1100" alt="running penguin gameplay" src="Assets/screenshots/running-penguin-gameplay.png" />
 
-<img width="1940" height="1100" alt="running penguin slide" src="https://github.com/user-attachments/assets/fd264ade-9455-4899-b0e3-9f96bc4b9c82" />
+<img width="1940" height="1100" alt="running penguin slide" src="Assets/screenshots/running-penguin-slide.png" />
 
 ---
 
@@ -57,6 +57,9 @@ Running_Penguin/
 |   |-- Scenes/
 |   |   |-- menu.unity
 |   |   `-- game.unity
+|   |-- screenshots/
+|   |   |-- running-penguin-gameplay.png
+|   |   `-- running-penguin-slide.png
 |   |-- scripts/
 |   |   |-- mainscript.cs
 |   |   |-- animationcode.cs
