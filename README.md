@@ -58,8 +58,6 @@ Running_Penguin/
 |   |   |-- menu.unity
 |   |   `-- game.unity
 |   |-- screenshots/
-|   |   |-- running-penguin-gameplay.png
-|   |   `-- running-penguin-slide.png
 |   |-- scripts/
 |   |   |-- mainscript.cs
 |   |   |-- animationcode.cs
@@ -77,8 +75,6 @@ Running_Penguin/
 |-- README.md
 `-- .gitignore
 ```
-
-Unity-generated folders such as `Library`, `Logs`, `UserSettings`, and `obj` are intentionally ignored by Git.
 
 ---
 
